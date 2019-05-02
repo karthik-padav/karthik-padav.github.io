@@ -1,0 +1,54 @@
+[
+    {
+        "lang": "HTML",
+        "percentage": "95%"
+    },
+    {
+        "lang": "Css3",
+        "percentage": "95%"
+    },
+    {
+        "lang": "Bootstrap",
+        "percentage": "80%"
+    },
+    {
+        "lang": "Bulma",
+        "percentage": "80%"
+    },
+    {
+        "lang": "Responsive Web Design",
+        "percentage": "80%"
+    },
+    {
+        "lang": "Javascript/jQuery",
+        "percentage": "80%"
+    },
+    {
+        "lang": "Angular",
+        "percentage": "60%"
+    },
+    {
+        "lang": "Vue js",
+        "percentage": "70%"
+    },
+    {
+        "lang": "React js",
+        "percentage": "70%"
+    },
+    {
+        "lang": "React Native",
+        "percentage": "80%"
+    },
+    {
+        "lang": "Ionic",
+        "percentage": "50%"
+    },
+    {
+        "lang": "Photoshop",
+        "percentage": "50%"
+    },
+    {
+        "lang": "Wordpress",
+        "percentage": "50%"
+    }
+]
