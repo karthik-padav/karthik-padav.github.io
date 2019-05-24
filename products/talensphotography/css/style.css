@@ -1,0 +1,25 @@
+body,h1 {font-family: "Raleway", sans-serif}
+body, html {height: 100%}
+.bgimg {
+  background-color: black;
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+    font-weight: bold;
+}
+.footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+@media only screen and (max-width: 768px){
+    .w3-xxxlarge {
+        font-size: 24px!important;
+    }
+}

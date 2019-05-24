@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="stylesheet" href="./css/style.css">
+</head>
+
+<body onload="getScreenSize()">
+
+<div class="sreen-r-wrapper">
+<h1>Your screen resolution is:</h1>
+<p id="screen_resolution"></p>
+</div>
+
+<script>
+function getScreenSize() {
+  var screenSize = screen.width + "x" + screen.height;
+  document.getElementById("screen_resolution").innerHTML = screenSize;
+}
+</script>
+
+</body>
+</html>
