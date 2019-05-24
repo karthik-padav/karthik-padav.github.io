@@ -1,14 +1,17 @@
 [
     {
-        "course": "Web development",
-        "year": "2010 - Present"
+        "course": "INTERNET ACADEMY",
+        "year": "2015",
+        "info": "Certified HTML5, CSS3 and JavaScript developer from Internet academy ( INTERNET ACADEMY is a member of W3C )"
     },
     {
-        "course": "Engineering in computer science",
-        "year": "2008 - 2010"
+        "course": "BACHELOR OF ENGINEERING IN COMPUTER SCIENCE",
+        "year": "2012 - 2015",
+        "info": "Shree Devi Institute of Technology, Mangalore (VTU, Belgaum)"
     },
     {
-        "course": "Diploma in computer science",
-        "year": "2005 - 2008"
+        "course": "DIPLOMA IN COMPUTER SCIENCE",
+        "year": "2009 - 2012",
+        "info": "P.A Polytechnic (DTE, Karnataka)"
     }
 ]

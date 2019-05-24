@@ -1,17 +1,32 @@
 [
     {
-        "company": "The Fuller Life",
-        "profile": "Front-end web developer",
-        "year": "2010 - Present"
+        "company": "The Fuller Life, Bangalore",
+        "profile": "Web developer",
+        "year": "OCTOBER 2017 - PRESENT",
+        "info": [{
+            "info": "Worked on several Health and wellness, employee engagement website using Vue js, Angular, HTML5, Bootstrap, Bulma"
+        }]
     },
     {
-        "company": "CodeCraft Technologies",
-        "profile": "Front-end web developer",
-        "year": "2008 - 2010"
+        "company": "Codecraft technologies, Bangalore",
+        "profile": "Web developer",
+        "year": "MARCH 2016 - OCTOBER 2017",
+        "info": [{
+            "info": "Communication-Time line application about all Creative experience between Creator and User/Fan using IONIC v1"
+        },{
+            "info": "Dashboard for survey app using Angular, Bootstrap"
+        },{
+            "info": "An application that helps you to book an ambulance during the time of a medical emergency using Template7 and JQuery"
+        }]
     },
     {
-        "company": "Evol Technologies",
+        "company": "Evol technologies, Mangalore",
         "profile": "UI/UX, Front-end web developer",
-        "year": "2005 - 2008"
+        "year": "JANUARY 2016 - FEBRUARY 2016",
+        "info": [{
+            "info": "Worked on the E-commerce website and on several Real Estate websites using HTML5 and Bootstrap."
+        },{
+            "info":"Created Artwork for E-commerce website using photoshop."
+        }]
     }
 ]
