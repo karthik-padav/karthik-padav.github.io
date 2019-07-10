@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/products/ui-palette/static/css/main.9693a7ab.chunk.css",
+    "main.js": "/products/ui-palette/static/js/main.b9d06ee1.chunk.js",
+    "main.js.map": "/products/ui-palette/static/js/main.b9d06ee1.chunk.js.map",
+    "runtime~main.js": "/products/ui-palette/static/js/runtime~main.25101b86.js",
+    "runtime~main.js.map": "/products/ui-palette/static/js/runtime~main.25101b86.js.map",
+    "static/css/2.f6fdce5c.chunk.css": "/products/ui-palette/static/css/2.f6fdce5c.chunk.css",
+    "static/js/2.6e42918e.chunk.js": "/products/ui-palette/static/js/2.6e42918e.chunk.js",
+    "static/js/2.6e42918e.chunk.js.map": "/products/ui-palette/static/js/2.6e42918e.chunk.js.map",
+    "index.html": "/products/ui-palette/index.html",
+    "precache-manifest.1c10fea909155e66211f5ff4a38b99b3.js": "/products/ui-palette/precache-manifest.1c10fea909155e66211f5ff4a38b99b3.js",
+    "service-worker.js": "/products/ui-palette/service-worker.js",
+    "static/css/2.f6fdce5c.chunk.css.map": "/products/ui-palette/static/css/2.f6fdce5c.chunk.css.map",
+    "static/css/main.9693a7ab.chunk.css.map": "/products/ui-palette/static/css/main.9693a7ab.chunk.css.map",
+    "static/media/index.css": "/products/ui-palette/static/media/VarelaRound-Regular.518edd7c.ttf",
+    "static/media/bootstrap.css": "/products/ui-palette/static/media/glyphicons-halflings-regular.fa277232.woff"
+  }
+}
