@@ -1,15 +1,25 @@
 [
     {
+        "company": "Spanidea Systems, Bangalore",
+        "profile": "Front-end developer",
+        "year": "AUGUST 2019 - PRESENT",
+        "info": [{
+            "info": "Working as a Front-end developer for client FIS Global."
+        },{
+            "info": "Technology used - React js, Redux."
+        }]
+    },
+    {
         "company": "The Fuller Life, Bangalore",
-        "profile": "Web developer",
-        "year": "OCTOBER 2017 - PRESENT",
+        "profile": "Front-end developer",
+        "year": "OCTOBER 2017 - AUGUST 2019",
         "info": [{
             "info": "Worked on several Health and wellness, employee engagement website using Vue js, Angular, HTML5, Bootstrap, Bulma"
         }]
     },
     {
         "company": "Codecraft technologies, Bangalore",
-        "profile": "Web developer",
+        "profile": "Front-end developer",
         "year": "MARCH 2016 - OCTOBER 2017",
         "info": [{
             "info": "Communication-Time line application about all Creative experience between Creator and User/Fan using IONIC v1"

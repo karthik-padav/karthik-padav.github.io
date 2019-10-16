@@ -25,19 +25,19 @@
     },
     {
         "lang": "Angular",
-        "percentage": "60%"
-    },
-    {
-        "lang": "Vue js",
-        "percentage": "70%"
-    },
-    {
-        "lang": "React js",
         "percentage": "40%"
     },
     {
+        "lang": "Vue js",
+        "percentage": "60%"
+    },
+    {
+        "lang": "React js",
+        "percentage": "70%"
+    },
+    {
         "lang": "React Native",
-        "percentage": "80%"
+        "percentage": "50%"
     },
     {
         "lang": "Ionic",
