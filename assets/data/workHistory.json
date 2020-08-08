@@ -1,12 +1,10 @@
 [
     {
-        "company": "Spanidea Systems, Bangalore",
-        "profile": "Front-end developer",
-        "year": "AUGUST 2019 - PRESENT",
+        "company": "Tecnotree, Bangalore",
+        "profile": "Senior Software Engineer",
+        "year": "November 2019 - PRESENT",
         "info": [{
-            "info": "Working as a Front-end developer for client FIS Global."
-        },{
-            "info": "Technology used - React js, Redux."
+            "info": "Technology used - React js, Redux, Material UI"
         }]
     },
     {
